@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PracticeIPZ</string>
+    <string name="title1">Linear Layout</string>
+    <string name="next_layout">Next Layout</string>
+    <string name="back_layout">Back Layout</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="tbn3">3</string>
+    <string name="answer1">Кнопка 1</string>
+    <string name="answer2">Кнопка 2</string>
+    <string name="answer3">Кнопка 3</string>
+    <string name="toggleBtnNo">NO</string>
+    <string name="toggleBtnYes">YES</string>
+    <string name="txtChooseFood">Выберите еду</string>
+    <string name="txtWith">С собой?</string>
+    <string name="cbtxtVopper">Воппер</string>
+    <string name="cbtxtFri">Картошка фри</string>
+    <string name="cbtxtPepsi">Пепси/Фанта/Спрайт</string>
+    <string name="cbtxtSause">Соус</string>
+    <string name="cbtxtDessert">Десерт</string>
+    <string name="know_more">KNOW MORE</string>
+    <string name="UI_name">Интерфейс пользователя</string>
+    <string name="UI_more">UI (англ. user interface) — это интерфейс пользователя. С помощью такого интерфейса юзер может взаимодействовать, т.е. вести диалог с устройствами, машинами, программами.</string>
+</resources>
